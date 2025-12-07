@@ -1,0 +1,17 @@
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Mappings.deps.json
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Mappings.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Mappings.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Models.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Validation.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Models.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\bin\Debug\net8.0\Library.Validation.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.csproj.AssemblyReference.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.AssemblyInfoInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.AssemblyInfo.cs
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.csproj.CoreCompileInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library..5E77052A.Up2Date
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\refint\Library.Mappings.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\Library.Mappings.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Mappings\obj\Debug\net8.0\ref\Library.Mappings.dll

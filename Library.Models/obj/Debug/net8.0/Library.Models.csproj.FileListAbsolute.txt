@@ -1,0 +1,15 @@
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\bin\Debug\net8.0\Library.Models.deps.json
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\bin\Debug\net8.0\Library.Models.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\bin\Debug\net8.0\Library.Models.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\bin\Debug\net8.0\Library.Validation.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\bin\Debug\net8.0\Library.Validation.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.csproj.AssemblyReference.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.AssemblyInfoInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.AssemblyInfo.cs
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.csproj.CoreCompileInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library..95D8261F.Up2Date
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\refint\Library.Models.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\Library.Models.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Models\obj\Debug\net8.0\ref\Library.Models.dll
