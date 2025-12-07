@@ -1,0 +1,11 @@
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\bin\Debug\net8.0\Library.Validation.deps.json
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\bin\Debug\net8.0\Library.Validation.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\bin\Debug\net8.0\Library.Validation.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.AssemblyInfoInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.AssemblyInfo.cs
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.csproj.CoreCompileInputs.cache
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\refint\Library.Validation.dll
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\Library.Validation.pdb
+C:\Users\bobss\OneDrive\Desktop\Библиотека\Library.Validation\obj\Debug\net8.0\ref\Library.Validation.dll
