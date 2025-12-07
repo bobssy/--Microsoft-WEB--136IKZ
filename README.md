@@ -116,7 +116,10 @@ cd "c:\Users\bobss\OneDrive\Desktop\Библиотека"
 **Стъпка 2:** Стартирайте инсталационния скрипт:
 ```powershell
 .\Install-LibrarySystem.ps1
-```
+```<img width="1000" height="750" alt="install step 1" src="https://github.com/user-attachments/assets/6b4c3a00-640a-43b3-b0f6-a302ef4ae96d" />
+<img width="1451" height="756" alt="install 2" src="https://github.com/user-attachments/assets/9c75d44a-fc85-4698-aedd-2cc78e12abbc" />
+<img width="1451" height="756" alt="install 3" src="https://github.com/user-attachments/assets/e3f66239-fc7c-4ece-b2bb-1a55c1dd3ebf" />
+
 
 Скриптът автоматично ще:
 - ✅ Провери за .NET 8 SDK
@@ -169,7 +172,7 @@ dotnet run
 
 **5. Отваряне в браузър:**
 ```
-https://localhost:5001
+http://localhost:5270
 ```
 
 ### Първоначални данни за вход:
@@ -204,17 +207,22 @@ https://localhost:5001
   ```
 
 ---
+<img width="1899" height="789" alt="wellcome screen" src="https://github.com/user-attachments/assets/b5380b5a-bb77-4f7d-b95c-33692f9e4e69" />
 
 ## �📷 Снимки от системата
+<img width="1901" height="797" alt="about" src="https://github.com/user-attachments/assets/3912b03b-04b4-4848-9d74-9a50312cddb2" />
+<img width="1878" height="788" alt="логин" src="https://github.com/user-attachments/assets/7092feba-3c27-4ee8-9027-37fdbc3c587a" />
 
 ### 🏠 Табло за управление
-![Dashboard Screenshot](screenshots/Dashboard.png)
+
+<img width="1000" height="750" alt="install step 1" src="https://github.com/user-attachments/assets/14e5df20-14ac-4552-b856-aa8700c0b0c7" />
 
 ### 👤 Управление на членове
 ![Member Management Screenshot]()
 
 ### 📚 Каталог с книги
-![Book Catalog Screenshot]()
+
+<img width="1885" height="835" alt="ДОБАВЯНЕ НА КНИГА" src="https://github.com/user-attachments/assets/84950967-a20d-4f27-87f1-08948fc55e62" />
 
 ### 🔄 Заемане и връщане
 ![Borrowing Screenshot]()
